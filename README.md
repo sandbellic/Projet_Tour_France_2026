@@ -1,4 +1,4 @@
-Projet_foot_2026 est réalisé à partir des mini-projets Data / IA proposés par le site ** Machine Learnia Ltd ** durant l'été 2026.
+Projet_Tour_France_2026 est réalisé à partir des mini-projets Data / IA proposés par le site ** Machine Learnia Ltd ** durant l'été 2026.
 
 Guillaume Saint-Cirgue, Fondateur du site et Senior Data Scientist avec plus de 10 ans d’expérience dans les secteurs de la tech, l’aviation, la robotique, l’énergie, et les usines connectées nous fait partager ses connaissances dans le domaine de l’intelligence artificielle.
 
