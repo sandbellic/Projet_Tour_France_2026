@@ -1,0 +1,22 @@
+[project]
+name = "projet-tour-de-france"
+version = "0.1.0"
+description = "Clustering et algorithmes - Projet Tour de France"
+readme = "README.md"
+authors = [
+    { name = "sandrine", email = "sand.bellicaud@laposte.net" }
+]
+requires-python = ">=3.13.2"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.5",
+    "pyinstaller>=6.22.3",
+    "scikit-learn>=1.9.1",
+]
+
+[project.scripts]
+projet-tour-de-france = "projet_tour_de_france.main:main"
+
+[build-system]
+requires = ["uv_build>=0.12.4,<0.13.0"]
+build-backend = "uv_build"
